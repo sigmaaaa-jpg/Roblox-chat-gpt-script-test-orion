@@ -1,2 +1,4 @@
 # Roblox-chat-gpt-script-test-orion
-Uhh
+hi guys 
+its a test script from chatgpt!
+enjoy
